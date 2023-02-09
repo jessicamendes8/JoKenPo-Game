@@ -1,0 +1,13 @@
+C:\C# projetos\JoKenPo-Game\JoKenPo-Game\bin\Debug\JoKenPo-Game.exe.config
+C:\C# projetos\JoKenPo-Game\JoKenPo-Game\bin\Debug\JoKenPo-Game.exe
+C:\C# projetos\JoKenPo-Game\JoKenPo-Game\bin\Debug\JoKenPo-Game.pdb
+C:\C# projetos\JoKenPo-Game\JoKenPo-Game\bin\Debug\Guna.UI2.dll
+C:\C# projetos\JoKenPo-Game\JoKenPo-Game\obj\Debug\JoKenPo-Game.csproj.AssemblyReference.cache
+C:\C# projetos\JoKenPo-Game\JoKenPo-Game\obj\Debug\JoKenPo-Game.csproj.SuggestedBindingRedirects.cache
+C:\C# projetos\JoKenPo-Game\JoKenPo-Game\obj\Debug\JoKenPo_Game.Properties.Resources.resources
+C:\C# projetos\JoKenPo-Game\JoKenPo-Game\obj\Debug\JoKenPo-Game.csproj.GenerateResource.cache
+C:\C# projetos\JoKenPo-Game\JoKenPo-Game\obj\Debug\JoKenPo-Game.csproj.CoreCompileInputs.cache
+C:\C# projetos\JoKenPo-Game\JoKenPo-Game\obj\Debug\JoKenPo-Game.csproj.CopyComplete
+C:\C# projetos\JoKenPo-Game\JoKenPo-Game\obj\Debug\JoKenPo-Game.exe
+C:\C# projetos\JoKenPo-Game\JoKenPo-Game\obj\Debug\JoKenPo-Game.pdb
+C:\C# projetos\JoKenPo-Game\JoKenPo-Game\obj\Debug\JoKenPo_Game.Form1.resources
